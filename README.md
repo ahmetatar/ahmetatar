@@ -9,7 +9,7 @@
 - 😄 My Pronouns: He/Him
 - ⚡ Fun fact: I love watching movies, playing the guitar and investing in profitable inventories |  #ecom, #amz, #ibanez
 
-#### Most used Techs
+#### Most used Langs & Techs
 
 <p>
   <img src="https://img.shields.io/badge/-Visual%20Studio%20Code-23A9F2?style=flat-square&logo=Visual%20Studio%20Code&logoColor=white"/>
