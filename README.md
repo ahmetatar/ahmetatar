@@ -3,7 +3,7 @@
 #### Get to know me a little better on my page!
 
 - 🔭 I’m currently working on @ **Amadeus**
-- 🧐 Interested in everything **Cloud | Web | Software Architecture**
+- 🧐 Interested in everything **Cloud | Web | Enterprise Architecture**
 - 💬 Ask me about **nestjs, angular, typescript, .net core, azure & code design**
 - 📫 How to reach me: [Twitter](https://twitter.com/ahmetatar_v1) | [Mail](mailto:ahhmetatar@gmail.com)
 - 😄 My Pronouns: He/Him
