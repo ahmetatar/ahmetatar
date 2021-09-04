@@ -38,4 +38,4 @@
 
 #### My Goals for 2021
 
-- [ ] https://github.com/ahmetatar/ahmetatar/issues/1
+- [ ] Experimental Gateway project w/ TypeScript #1
