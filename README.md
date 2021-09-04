@@ -35,7 +35,3 @@
   <img src="https://img.shields.io/badge/-.NET Core-blueviolet?style=flat-square&logo=.NET&logoColor=white" />
   <img src="https://img.shields.io/badge/-CSharp-blueviolet?style=flat-square&logo=csharp&logoColor=white" />
 </p>
-
-#### My Goals for 2021
-
-- [ ] Experimental Gateway project w/ TypeScript #1
