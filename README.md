@@ -2,14 +2,20 @@
 
 #### Get to know me a little better on my page!
 
-- 🔭 I’m currently working on @ **Amadeus**
+- 🔭 I’m currently working on **Amadeus**
 - 🧐 Interested in everything **Cloud | Web | Enterprise Architecture**
 - 💬 Ask me about **nestjs, angular, typescript, .net core, azure & code design**
-- 📫 How to reach me: [Twitter](https://twitter.com/ahmetatar_v1) | [Mail](mailto:ahhmetatar@gmail.com)
 - 😄 My Pronouns: He/Him
 - ⚡ Fun fact: I love watching movies, playing the guitar and investing in profitable inventories |  #ecom, #amz, #ibanez
 
-#### My Tech Stack
+### NPX Card
+This my NPX card unique style to connect with me directly via console or terminal
+ 
+```bash
+npx ahmetatar
+```
+
+### My Tech Stack
 
 <p>
   <img src="https://img.shields.io/badge/-Visual%20Studio%20Code-23A9F2?style=flat-square&logo=Visual%20Studio%20Code&logoColor=white"/>
