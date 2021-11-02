@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on **Amadeus**
 - 🧐 Interested in everything **Cloud | Web | Enterprise Architecture**
-- 💬 Ask me about **nestjs, angular, typescript, .net core, azure & code design**
+- 💬 Ask me about **nestjs, angular, typescript, .net, git and azure**
 - 😄 My Pronouns: He/Him
 - ⚡ Fun fact: I love watching movies, playing the guitar and investing in profitable inventories |  #ecom, #amz, #ibanez
 
