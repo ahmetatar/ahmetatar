@@ -39,5 +39,6 @@ npx ahmetatar
   <img src="https://img.shields.io/badge/-Nodejs-026E00?style=flat-square&logo=node.js&logoColor=white" />
   <img src="https://img.shields.io/badge/-TypeScript-blue?style=flat-square&logo=TypeScript&logoColor=white" />
   <img src="https://img.shields.io/badge/-.NET Core-blueviolet?style=flat-square&logo=.NET&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Java-181717?style=flat-square&logo=java&logoColor=white" />
   <img src="https://img.shields.io/badge/-CSharp-blueviolet?style=flat-square&logo=csharp&logoColor=white" />
 </p>
