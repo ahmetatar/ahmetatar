@@ -4,9 +4,9 @@
 
 - 🔭 I’m currently working on **Amadeus**
 - 🧐 Interested in everything **Cloud | Web | Enterprise Architecture**
-- 💬 Ask me about **nestjs | node, angular, typescript, .net | java, and azure**
+- 💬 Ask me about **nestjs | node, angular, typescript, rxjs, ngrx, .net | java, and azure**
 - 😄 My Pronouns: He/Him
-- ⚡ Fun fact: I love watching movies, playing the guitar and investing in profitable inventories |  #ecom, #amz, #ibanez
+- ⚡ Fun fact: I love watching movies, playing the guitar and reading book
 
 ### NPX Card
 This my NPX card unique style to connect with me directly via console or terminal
