@@ -6,7 +6,7 @@
 - 🧐 Interested in everything **Cloud | Web | Enterprise Architecture**
 - 💬 Ask me about **nestjs | node, angular, typescript, rxjs, ngrx, .net | java, and azure**
 - 😄 My Pronouns: He/Him
-- ⚡ Fun fact: I love watching movies, playing the guitar and reading book
+- ⚡ Fun fact: Guitars, books, xbox, hobby electronic & iot
 
 ### NPX Card
 This my NPX card unique style to connect with me directly via console or terminal
