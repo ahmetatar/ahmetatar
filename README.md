@@ -28,9 +28,7 @@ npx ahmetatar
   <img src="https://img.shields.io/badge/-Git-F44D27?style=flat-square&logo=Git&logoColor=white"/>
   <img src="https://img.shields.io/badge/-Azure-0078D4?style=flat-square&logo=Azure DevOps&logoColor=white"/>
   <img src="https://img.shields.io/badge/-Docker-blue?style=flat-square&logo=Docker&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-Kubernetes-blue?style=flat-square&logo=Kubernetes&logoColor=white" />
   <img src="https://img.shields.io/badge/-Nodejs-026E00?style=flat-square&logo=node.js&logoColor=white" />
   <img src="https://img.shields.io/badge/-TypeScript-blue?style=flat-square&logo=TypeScript&logoColor=white" />
-  <img src="https://img.shields.io/badge/-.NET Core-blueviolet?style=flat-square&logo=.NET&logoColor=white" />
-  <img src="https://img.shields.io/badge/-CSharp-blueviolet?style=flat-square&logo=csharp&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Nestjs-red?style=flat-square&logo=nestjs" />
 </p>
