@@ -6,7 +6,7 @@
 - 🧐 Interested in everything **Cloud | Web | Enterprise Architecture**
 - 💬 Ask me about **any of these in my tech stack**
 - 😄 My Pronouns: He/Him
-- ⚡ Fun fact: Guitars, books, xbox and nintendo
+- ⚡ Fun fact: Guitars, books and games (xbox)
 
 ### NPX Card
 This my NPX card unique style to connect with me directly via console or terminal
@@ -26,8 +26,8 @@ npx ahmetatar
   <img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white"/>
   <img src="https://img.shields.io/badge/-Visual%20Studio%20Code-23A9F2?style=flat-square&logo=Visual%20Studio%20Code&logoColor=white"/>
   <img src="https://img.shields.io/badge/-Git-F44D27?style=flat-square&logo=Git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-Azure-0078D4?style=flat-square&logo=Azure DevOps&logoColor=white"/>
   <img src="https://img.shields.io/badge/-Docker-blue?style=flat-square&logo=Docker&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-DOTNET-blue?style=flat-square&logo=dotnet&logoColor=white"/>
   <img src="https://img.shields.io/badge/-Nodejs-026E00?style=flat-square&logo=node.js&logoColor=white" />
   <img src="https://img.shields.io/badge/-TypeScript-blue?style=flat-square&logo=TypeScript&logoColor=white" />
   <img src="https://img.shields.io/badge/-Nestjs-red?style=flat-square&logo=nestjs" />
