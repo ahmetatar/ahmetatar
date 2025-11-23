@@ -27,7 +27,7 @@ npx ahmetatar
   <img src="https://img.shields.io/badge/-Visual%20Studio%20Code-23A9F2?style=flat-square&logo=Visual%20Studio%20Code&logoColor=white"/>
   <img src="https://img.shields.io/badge/-Git-F44D27?style=flat-square&logo=Git&logoColor=white"/>
   <img src="https://img.shields.io/badge/-Docker-blue?style=flat-square&logo=Docker&logoColor=white"/>
-  <img src="https://img.shields.io/badge/AI-74aa9c?style=for-the-badge&logo=openai&logoColor=white">
+  <img src="https://img.shields.io/badge/AI-74aa9c?style=flat-square&logo=openai&logoColor=white">
   <img src="https://img.shields.io/badge/-DOTNET-blue?style=flat-square&logo=dotnet&logoColor=white"/>
   <img src="https://img.shields.io/badge/-Nodejs-026E00?style=flat-square&logo=node.js&logoColor=white" />
   <img src="https://img.shields.io/badge/-TypeScript-blue?style=flat-square&logo=TypeScript&logoColor=white" />
