@@ -1,12 +1,6 @@
-### Hi there 👋
+## Hi there 👋, I'm Ahmet Atar
 
-#### Get to know me a little better on my page!
-
-- 🔭 I’m currently working on **Amadeus**
-- 🧐 Interested in everything **Cloud | Web | AI | Enterprise Architecture**
-- 💬 Ask me about **any of these in my tech stack**
-- 😄 My Pronouns: He/Him
-- ⚡ Fun fact: Lego, Hobby Electronics, Movie and Console Games
+I’m a Senior Software Engineer based in Istanbul with a strong focus on cloud technologies, web development, artificial intelligence, and enterprise architecture. My work is driven by a passion for building scalable, robust systems and delivering high-quality solutions in complex environments. I thrive on collaboration and continuous learning, always eager to explore new tools, frameworks, and methodologies. Outside of work, I enjoy hobbies like LEGO building, electronics projects, watching movies, and playing console games.
 
 ### NPX Card
 This my NPX card unique style to connect with me directly via console or terminal
@@ -17,19 +11,28 @@ npx ahmetatar
 
 ### My Tech Stack
 
-<p>
-  <img src="https://img.shields.io/badge/-Angular-red?style=flat-square&logo=Angular&logoColor=white" /><br>
-  <img src="https://img.shields.io/badge/-Redux-blueviolet?style=flat-square&logo=Redux&logoColor=white" />
-  <img src="https://img.shields.io/badge/-RxJS-ff69b4?style=flat-square&logo=RxJS&logoColor=white" />
-  <img src="https://img.shields.io/badge/-NgRx-8A2BE2?style=flat-square&logo=NgRx&logoColor=white"
-  <img src="https://img.shields.io/badge/-SASS-CF649A?style=flat-square&logo=sass&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-Visual%20Studio%20Code-23A9F2?style=flat-square&logo=Visual%20Studio%20Code&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-Git-F44D27?style=flat-square&logo=Git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-Docker-blue?style=flat-square&logo=Docker&logoColor=white"/>
-  <img src="https://img.shields.io/badge/AI-74aa9c?style=flat-square&logo=openai&logoColor=white">
-  <img src="https://img.shields.io/badge/-DOTNET-blue?style=flat-square&logo=dotnet&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-Nodejs-026E00?style=flat-square&logo=node.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/-TypeScript-blue?style=flat-square&logo=TypeScript&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Nestjs-red?style=flat-square&logo=nestjs" />
+<p align="left">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" alt="angular" width="40" height="40"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="html" width="40" height="40"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="css" width="40" height="40"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" alt="bootstrap" width="40" height="40"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/electron/electron-original.svg" alt="electron" width="40" height="40"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="python" width="40" height="40"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="node" width="40" height="40"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" alt="express" width="40" height="40"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="git" width="40" height="40"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="github" width="40" height="40"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" alt="azure" width="40" height="40"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="docker" width="40" height="40"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" alt="kubernetes" width="40" height="40"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" alt="redis" width="40" height="40"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="mongodb" width="40" height="40"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg" alt="graphql" width="40" height="40"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode" width="40" height="40"/>&nbsp;
 </p>
+
+### GitHub Activity Graph
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=ahmetatar&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph" />
