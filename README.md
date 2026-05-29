@@ -11,7 +11,7 @@ npx ahmetatar
 
 ### My Tech Stack
 
-[![My Skills](https://skillicons.dev/icons?i=nodejs,js,ts,dotnet,py,express,azure,redis,kubernetes,docker,mongodb,angular,git,github,vitest)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=nodejs,js,ts,dotnet,py,express,azure,redis,kubernetes,docker,angular,git,github,vitest)](https://skillicons.dev)
 
 ### GitHub Activity Graph
 
