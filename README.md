@@ -13,6 +13,3 @@ npx ahmetatar
 
 [![My Skills](https://skillicons.dev/icons?i=nodejs,js,ts,dotnet,py,express,azure,redis,kubernetes,docker,angular,git,github,vitest)](https://skillicons.dev)
 
-### GitHub Activity Graph
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=ahmetatar&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph" />
