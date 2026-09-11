@@ -11,5 +11,5 @@ npx ahmetatar
 
 ### My Tech Stack
 
-[![My Skills](https://skillicons.dev/icons?i=nodejs,js,ts,py,express,azure,redis,kubernetes,docker,angular,git,github,vitest)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=nodejs,js,ts,express,azure,redis,kubernetes,docker,angular,git,github,vitest)](https://skillicons.dev)
 
